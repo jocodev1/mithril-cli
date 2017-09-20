@@ -34,10 +34,12 @@ Your project contains a custom webpack configuration to help you build your asse
 
 ### For development
 
-Run `npm run dev` to quick build your files for development. To view your changes, open the `dist/index.html` file. Webpack will automatically watch for changes, but you will have to manually refresh your browser.
+Run `npm run dev` to quickly build your files for development. To view your changes, open the `dist/index.html` file. Webpack will automatically watch for changes, but you will have to manually refresh your browser.
 
 (Hot-reloading is planned for future versions of this CLI)
 
 ### For production
 
 Run `npm run build` to build your files for production. The file names will be hashed and will need to be run on an HTTP server at this point.
+
+You can always run `npm run dev` to replace these production files and continue making changes in your development environment.
