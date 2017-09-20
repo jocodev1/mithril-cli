@@ -1,0 +1,28 @@
+{
+  "name": "mithril-cli",
+  "version": "0.1.0",
+  "description": "Mithril CLI to help generate custom project scaffolding.",
+  "main": "bin/mithril.js",
+  "keywords": [
+    "Mithril",
+    "CLI"
+  ],
+  "bin": {
+    "mithril": "bin/mithril.js",
+    "mithril-build": "bin/mithril-build.js"
+  },
+  "author": "Collier Devlin",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.1.5",
+    "cli-prompt": "^0.6.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0",
+    "consolidate": "^0.14.5",
+    "handlebars": "^4.0.6",
+    "metalsmith": "^2.3.0",
+    "path": "^0.12.7",
+    "request": "^2.80.0"
+  }
+}
