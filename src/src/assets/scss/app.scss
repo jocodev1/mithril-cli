@@ -1,18 +1,21 @@
-// global app styles
+// remove if you want to use your own css framework
+@import '~milligram/dist/milligram.min.css';
 
 body {
-  background-color: #f1f1f1;
-  color: #333;
-  text-align: center;
-  font-family: 'Quicksand', sans-serif
+  margin: 50px 12px 0 12px;
+  text-align: center
 }
-
+hr {
+  border-color: #555
+}
 a {
-  margin: 0 5px
+  margin: 8px
 }
-
-#view {
+#header, #view {
   margin: 0 auto;
   width: 100%;
   max-width: 600px
+}
+#header {
+  max-width: 850px
 }

@@ -8,6 +8,7 @@
   },
   "author": "{{ author }}",
   "dependencies": {
+    "milligram": "^1.3.0",
     "mithril": "^1.1.3"
   },
   "devDependencies": {
