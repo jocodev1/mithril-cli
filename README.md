@@ -3,6 +3,8 @@ A command-line interface to help you build the scaffolding for your next Mithril
 
 [![npm](https://img.shields.io/npm/v/mithril-cli.svg)](https://www.npmjs.com/package/mithril-cli) [![mithril](https://img.shields.io/badge/mithril-1.1.3-blue.svg)](https://mithril.js.org/)
 
+[Demo](http://collierdevlinmedia.com/mithril/#!/) project created from Mithril CLI.
+
 ### Installation
 Start by installing `mithril-cli` globally.
 
@@ -24,7 +26,7 @@ The only thing left for you to do is install all project dependencies...
 npm install
 ```
 
-Now your new Mithril project is all set up!
+Now your new Mithril project is all setup!
 
 ## Building Your Assets
 
