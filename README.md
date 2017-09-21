@@ -24,7 +24,7 @@ The only thing left for you to do is install all project dependencies...
 npm install
 ```
 
-Now your new Mithril project is all setup!
+Now your new Mithril project is all set up!
 
 ## Building Your Assets
 
