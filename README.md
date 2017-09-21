@@ -1,7 +1,7 @@
 # Mithril CLI
 A command-line interface to help you build the scaffolding for your next Mithril project.
 
-[![npm](https://img.shields.io/npm/v/mithril-cli.svg)](https://www.npmjs.com/package/mithril-cli) [![mithril](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://mithril.js.org/)
+[![npm](https://img.shields.io/npm/v/mithril-cli.svg)](https://www.npmjs.com/package/mithril-cli) [![mithril](https://img.shields.io/badge/mithril-1.1.3-blue.svg)](https://mithril.js.org/)
 
 ### Installation
 Install `mithril-cli`
