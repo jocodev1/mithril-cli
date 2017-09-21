@@ -1,6 +1,6 @@
 {
   "name": "mithril-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Mithril CLI to help generate custom project scaffolding.",
   "main": "bin/mithril.js",
   "keywords": [
