@@ -36,8 +36,8 @@ module.exports = {
     ]
   },
   plugins: [
-    // generate index.html based on src/index.html
     new HtmlWebpackPlugin({
+      template: 'index.html',
       minify: {
         removeComments: true,
         collapseWhitespace: true,
